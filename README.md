@@ -1,2 +1,2 @@
 # DRBR
-opit
+opit / train skills
