@@ -2,25 +2,13 @@ Hi,
 I'm Simeon
 I love programing with C#
 and I like playing games RPG & MMORPG
-
 Nice to meet you all ^_^
-<<<<<<< HEAD
 https://www.facebook.com/sasho.avramow
-=======
-
-
 Terra ruls but my pc sucks
 https://www.facebook.com/todor.atanasov.37
-
->>>>>>> 2928158803aa4ba430c681b0a3bbc5dd1bdc1c64
 Hi Simo
 I'm Svetlio
 Nice to meet you
 I'm happy to be part of the group :)
-<<<<<<< HEAD
->>>>>>> 0df56d641e5ef0f9ba5318cfdee652f61b6a7a33
-=======
-
->>>>>>> 2928158803aa4ba430c681b0a3bbc5dd1bdc1c64
 my FB is Svetlosar Ivanov Kovatchev
 https://www.facebook.com/zleonardo.davinci
